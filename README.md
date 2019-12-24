@@ -11,3 +11,4 @@
 * **_Kaynak dosyaları_** ile geliştirilebilmesi adına paylaşıyorum.
 
 * Oyunu **Uzay Oyunu** adlı klasörün içinde bulunmaktadır, indirildiğinde jar dosyasını açarak oynanılabilir.
+ 
