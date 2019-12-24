@@ -6,7 +6,7 @@
 
 * **Space** tuşu ile ateş ediliyor. 
 
-* Top **_vurulduğunda_** oyun ekrana **messagebox** çıkararak toplamda kaç *atış* yapıldığını ve ne kadar *sürede* topu vurduğunuzu gösterir.
+* Top **_vurulduğunda_** oyun ekrana **messagebox** çıkararak toplamda kaç *atış* yapıldığını ve ne kadar **_sürede_** topu vurduğunuzu gösterir.
 
 * **_Kaynak dosyaları_** ile geliştirilebilmesi adına paylaşıyorum.
 
